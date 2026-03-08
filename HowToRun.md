@@ -92,3 +92,47 @@ Start the Flask backend to serve the UI and handle background rebuilds.
 python src/server.py
 ```
 Open your browser and navigate to http://localhost:5050.
+
+## Setting Up Your AI Environments
+### How to Set Up a Groq API Key (Cloud Extraction)
+Groq provides blazing-fast inference for cloud extraction and is the default engine for src/extract.py.
+
+1. Go to the [GroqCloud Console](https://console.groq.com/).
+
+2. Log in or create a free account.
+
+3. Navigate to the **API Keys** section in the left-hand sidebar.
+
+4. Click **Create API Key**.
+
+5. Copy the generated key immediately (you won't be able to see it again).
+
+6. Open your terminal and export it so the script can read it:
+```bash
+# On macOS/Linux:
+export GROQ_API_KEY="your_api_key_here"
+
+# On Windows (Command Prompt):
+set GROQ_API_KEY="your_api_key_here"
+
+# On Windows (PowerShell):
+$env:GROQ_API_KEY="your_api_key_here"
+```
+
+## How to Download LLaMA (Local Fallback)
+If you prefer to run the extraction entirely locally for privacy or to avoid API rate limits, the project includes a local fallback script (`src/llama_extract.py`). This runs using **Ollama**.
+
+### Step 1: Install Ollama
+Open your terminal and run this command to download and install the Ollama engine. It will automatically detect your NVIDIA GPU so it runs fast.
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+### Step 2: Download the LLaMA Brain
+Once Ollama is installed, we need to download the actual AI model weights. We will use Meta's Llama 3.1 (the 8-billion parameter version). It is incredibly smart and fits perfectly in a laptop's VRAM.
+
+Run this in your terminal:
+```bash
+ollama pull llama3.1
+```
+`(Note: This is a ~4.7GB download, so it might take a few minutes depending on your internet speed. Grab a coffee!)`
