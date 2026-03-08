@@ -1,5 +1,5 @@
 # Ignore raw datasets and massive archives
-data/raw/
+data/raw/maildir/
 *.tar.gz
 *.zip
 
