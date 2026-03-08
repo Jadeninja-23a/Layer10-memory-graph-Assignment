@@ -1,0 +1,22 @@
+# Ignore raw datasets and massive archives
+data/raw/
+*.tar.gz
+*.zip
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment variables (never upload API keys!)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# OPTIONAL: You can uncomment the line below if you want to ignore ALL generated JSONs. 
+# However, for a take-home interview, leaving the generated JSONs (like graph.json) 
+# in the repo is often good so evaluators can run the UI immediately without waiting 
+# for the AI extraction step.
+# data/*.json

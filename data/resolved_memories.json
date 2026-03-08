@@ -1,0 +1,1946 @@
+[
+  {
+    "source": "Ron Green",
+    "action": "request",
+    "target": "Mr Lay",
+    "original_sources": [
+      "Ron Green"
+    ],
+    "original_targets": [
+      "Mr Lay"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+        "exact_quote": "I am the Director of Field Operations for Houston Pipe Line Company and request your support on a simple, yet important matter.",
+        "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Ron Green",
+        "raw_target_name": "Mr Lay"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "last_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Houston Pipe Line Company",
+    "action": "transfer",
+    "target": "American Electric Power",
+    "original_sources": [
+      "Houston Pipe Line Company"
+    ],
+    "original_targets": [
+      "American Electric Power"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+        "exact_quote": "As currently planned, the employees of Houston Pipe Line will transfer to  American Electric Power effective June1.",
+        "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Houston Pipe Line Company",
+        "raw_target_name": "American Electric Power"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "last_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Ron Green",
+    "action": "thank",
+    "target": "Mr Lay",
+    "original_sources": [
+      "Ron Green"
+    ],
+    "original_targets": [
+      "Mr Lay"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+        "exact_quote": "My request is for a simple thank you from you to our employees for the work that they have done for Enron.",
+        "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Ron Green",
+        "raw_target_name": "Mr Lay"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "last_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "HPL",
+    "action": "become",
+    "target": "Enron",
+    "original_sources": [
+      "HPL"
+    ],
+    "original_targets": [
+      "Enron"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+        "exact_quote": "Our field employees look forward to this change with the mixed emotions of new opportunities and challenges but equally with the pride that HPL was one of the original building blocks of the great company that Enron has become today.",
+        "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "HPL",
+        "raw_target_name": "Enron"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "last_seen": "Thu, 17 May 2001 09:07:23 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "The Independent Institute",
+    "action": "provides",
+    "target": "updates of the Institute's current research publications, events and media programs",
+    "original_sources": [
+      "The Independent Institute"
+    ],
+    "original_targets": [
+      "updates of the Institute's current research publications, events and media programs"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+        "exact_quote": "We provide you with updates of the Institute's current research publications, events and media programs.",
+        "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "The Independent Institute",
+        "raw_target_name": "updates of the Institute's current research publications, events and media programs"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "last_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Jerry Bruckheimer",
+    "action": "consulted",
+    "target": "Pearl Harbor survivors, historians, and government officials",
+    "original_sources": [
+      "Jerry Bruckheimer"
+    ],
+    "original_targets": [
+      "Pearl Harbor survivors, historians, and government officials"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+        "exact_quote": "during the film's production Jerry Bruckheimer, the producer, made sure to consult Pearl Harbor survivors, historians, and government officials.",
+        "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Jerry Bruckheimer",
+        "raw_target_name": "Pearl Harbor survivors, historians, and government officials"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "last_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Robert B. Stinnett",
+    "action": "wrote",
+    "target": "DAY OF DECEIT: The Truth About FDR and Pearl Harbor",
+    "original_sources": [
+      "Robert B. Stinnett"
+    ],
+    "original_targets": [
+      "DAY OF DECEIT: The Truth About FDR and Pearl Harbor"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+        "exact_quote": "writes Robert B. Stinnett in the new paperback edition of his book DAY OF DECEIT: The Truth About FDR and Pearl Harbor,",
+        "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Robert B. Stinnett",
+        "raw_target_name": "DAY OF DECEIT: The Truth About FDR and Pearl Harbor"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "last_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "David Friedman",
+    "action": "spoke",
+    "target": "Will Encryption Protect Privacy and Make Government Obsolete?",
+    "original_sources": [
+      "David Friedman"
+    ],
+    "original_targets": [
+      "Will Encryption Protect Privacy and Make Government Obsolete?"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+        "exact_quote": "Will Encryption Protect Privacy and Make Government Obsolete? -- David Friedman Transcript Now Online",
+        "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "David Friedman",
+        "raw_target_name": "Will Encryption Protect Privacy and Make Government Obsolete?"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "last_seen": "Mon, 21 May 2001 18:45:34 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Theo Johnson",
+    "action": "speaking",
+    "target": "Task Force",
+    "original_sources": [
+      "Theo Johnson"
+    ],
+    "original_targets": [
+      "Task Force"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+        "exact_quote": "Guest Speaker Theo Johnson Manager, Best Practices Program U.S. DOE, Office of Industrial Technologies",
+        "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Theo Johnson",
+        "raw_target_name": "Task Force"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "last_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Task Force",
+    "action": "promoting",
+    "target": "best corporate energy management practices",
+    "original_sources": [
+      "Task Force"
+    ],
+    "original_targets": [
+      "best corporate energy management practices"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+        "exact_quote": "Promotion of best corporate energy management practices by industry",
+        "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Task Force",
+        "raw_target_name": "best corporate energy management practices"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "last_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Task Force",
+    "action": "educating",
+    "target": "media and policymakers",
+    "original_sources": [
+      "Task Force"
+    ],
+    "original_targets": [
+      "media and policymakers"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+        "exact_quote": "Education of media and policymakers on the benefits of industrial energy-efficiency policies",
+        "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Task Force",
+        "raw_target_name": "media and policymakers"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "last_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Task Force",
+    "action": "supporting",
+    "target": "restoration/increase in the Office of Industrial Technologies (OIT) budget",
+    "original_sources": [
+      "Task Force"
+    ],
+    "original_targets": [
+      "restoration/increase in the Office of Industrial Technologies (OIT) budget"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+        "exact_quote": "Advocacy in support of restoration/increase in the Office of Industrial Technologies (OIT) budget",
+        "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Task Force",
+        "raw_target_name": "restoration/increase in the Office of Industrial Technologies (OIT) budget"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "last_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Natasha Ewell",
+    "action": "contacting",
+    "target": "attendees",
+    "original_sources": [
+      "Natasha Ewell"
+    ],
+    "original_targets": [
+      "attendees"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+        "exact_quote": "If you have not already been contacted, please RSVP by May 22, 2001 to Natasha Ewell at (202) 530-2208 or newell@ase.org",
+        "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Natasha Ewell",
+        "raw_target_name": "attendees"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "last_seen": "Mon, 21 May 2001 11:15:45 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Beau",
+    "action": "advise",
+    "target": "recipient",
+    "original_sources": [
+      "Beau"
+    ],
+    "original_targets": [
+      "recipient"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1122139.1075845189628.JavaMail.evans@thyme>",
+        "exact_quote": "Please advise.",
+        "timestamp": "Mon, 21 May 2001 13:23:19 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Beau",
+        "raw_target_name": "recipient"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 13:23:19 -0700",
+    "last_seen": "Mon, 21 May 2001 13:23:19 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "use",
+    "target": "line",
+    "original_sources": [
+      "Enron"
+    ],
+    "original_targets": [
+      "line"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1122139.1075845189628.JavaMail.evans@thyme>",
+        "exact_quote": "Can we use the Enron line again now that it is paid-off",
+        "timestamp": "Mon, 21 May 2001 13:23:19 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Enron",
+        "raw_target_name": "line"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 13:23:19 -0700",
+    "last_seen": "Mon, 21 May 2001 13:23:19 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Beau",
+    "action": "fund",
+    "target": "account",
+    "original_sources": [
+      "Beau"
+    ],
+    "original_targets": [
+      "account"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1122139.1075845189628.JavaMail.evans@thyme>",
+        "exact_quote": "We might have to fund the account around $2 million",
+        "timestamp": "Mon, 21 May 2001 13:23:19 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Beau",
+        "raw_target_name": "account"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 13:23:19 -0700",
+    "last_seen": "Mon, 21 May 2001 13:23:19 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "has",
+    "target": "offers",
+    "original_sources": [
+      "Enron"
+    ],
+    "original_targets": [
+      "offers"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+        "exact_quote": "We have very serious offers out to two young - but very highly regarded - economists doing work in areas of interest to Enron.",
+        "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Enron",
+        "raw_target_name": "offers"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "last_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Hendricks",
+    "action": "is being recruited for",
+    "target": "Lay family chairs",
+    "original_sources": [
+      "Hendricks"
+    ],
+    "original_targets": [
+      "Lay family chairs"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+        "exact_quote": "Hendricks is being recruited for one of the Lay family chairs.",
+        "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Hendricks",
+        "raw_target_name": "Lay family chairs"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "last_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Rust",
+    "action": "is being recruited for",
+    "target": "Center in Computational Economics and Finance",
+    "original_sources": [
+      "Rust"
+    ],
+    "original_targets": [
+      "Center in Computational Economics and Finance"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+        "exact_quote": "Rust, now at Yale, is being recruited for our new university-wide Center in Computational Economics and Finance.",
+        "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Rust",
+        "raw_target_name": "Center in Computational Economics and Finance"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "last_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Hendricks and Rust",
+    "action": "have",
+    "target": "research of interest to Enron",
+    "original_sources": [
+      "Hendricks and Rust"
+    ],
+    "original_targets": [
+      "research of interest to Enron"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+        "exact_quote": "The research programs of Hendricks and Rust look extremely exciting and bode well for a very productive relationship between Enron and the economics department at Rice were we to succeed in recruiting both of these outstanding economists at the peak of their careers.",
+        "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Hendricks and Rust",
+        "raw_target_name": "research of interest to Enron"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "last_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Hendricks",
+    "action": "is regarded as",
+    "target": "leading expert",
+    "original_sources": [
+      "Hendricks"
+    ],
+    "original_targets": [
+      "leading expert"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+        "exact_quote": "Ken is regarding as one of the leading experts (along with his co-author) on testing the implications of auction theory for real-world auctions.",
+        "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Hendricks",
+        "raw_target_name": "leading expert"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "last_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Hendricks and co-author",
+    "action": "pioneered",
+    "target": "study of auctions of Outer Continental Shelf (OCS) oil and gas leases",
+    "original_sources": [
+      "Hendricks and co-author"
+    ],
+    "original_targets": [
+      "study of auctions of Outer Continental Shelf (OCS) oil and gas leases"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+        "exact_quote": "Ken and his co-author (Rob Porter from Northwestern) pioneered the study of auctions of Outer Continental Shelf (OCS) oil and gas leases.",
+        "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Hendricks and co-author",
+        "raw_target_name": "study of auctions of Outer Continental Shelf (OCS) oil and gas leases"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "last_seen": "Tue, 22 May 2001 13:35:10 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Kudlow",
+    "action": "created",
+    "target": "kudlow 052201.doc",
+    "original_sources": [
+      "Kudlow"
+    ],
+    "original_targets": [
+      "kudlow 052201.doc"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<16269214.1075845189838.JavaMail.evans@thyme>",
+        "exact_quote": "kudlow 052201.doc",
+        "timestamp": "Tue, 22 May 2001 13:42:07 -0700",
+        "context_location": "File name",
+        "raw_source_name": "Kudlow",
+        "raw_target_name": "kudlow 052201.doc"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:42:07 -0700",
+    "last_seen": "Tue, 22 May 2001 13:42:07 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "ONE ENRON Holiday Party Planning Committee",
+    "action": "selected",
+    "target": "Planners Services Group",
+    "original_sources": [
+      "ONE ENRON Holiday Party Planning Committee"
+    ],
+    "original_targets": [
+      "Planners Services Group"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+        "exact_quote": "was made by the ONE ENRON Holiday Party Planning Committee.",
+        "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "ONE ENRON Holiday Party Planning Committee",
+        "raw_target_name": "Planners Services Group"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "last_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Planners Services Group",
+    "action": "has an established relationship with",
+    "target": "Enron Field",
+    "original_sources": [
+      "Planners Services Group"
+    ],
+    "original_targets": [
+      "Enron Field"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+        "exact_quote": "(Planners has an established relationship with Enron Field and coordinated ECT's Holiday party there last year.)",
+        "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Planners Services Group",
+        "raw_target_name": "Enron Field"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "last_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Ward & Ames",
+    "action": "provided",
+    "target": "sound ideas",
+    "original_sources": [
+      "Ward & Ames"
+    ],
+    "original_targets": [
+      "sound ideas"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+        "exact_quote": "Ward & Ames provided sound ideas in their proposal",
+        "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Ward & Ames",
+        "raw_target_name": "sound ideas"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "last_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Ward & Ames",
+    "action": "holds an internal perception of being",
+    "target": "controlling",
+    "original_sources": [
+      "Ward & Ames"
+    ],
+    "original_targets": [
+      "controlling"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+        "exact_quote": "holds an internal perception of being 'controlling' vs flexible",
+        "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Ward & Ames",
+        "raw_target_name": "controlling"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "last_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "ONE ENRON Holiday Party Planning Committee",
+    "action": "unanimously selected",
+    "target": "Planners Services Group",
+    "original_sources": [
+      "ONE ENRON Holiday Party Planning Committee"
+    ],
+    "original_targets": [
+      "Planners Services Group"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+        "exact_quote": "in the end Planners was unanimously selected by the Planning Committee.",
+        "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "ONE ENRON Holiday Party Planning Committee",
+        "raw_target_name": "Planners Services Group"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "last_seen": "Thu, 17 May 2001 16:28:03 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "United States Olympic Committee",
+    "action": "will conduct",
+    "target": "site visits and evaluations",
+    "original_sources": [
+      "United States Olympic Committee"
+    ],
+    "original_targets": [
+      "site visits and evaluations"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+        "exact_quote": "This summer, the United States Olympic Committee (USOC) will conduct initial site visits and evaluations of the eight U.S. bid cities",
+        "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "United States Olympic Committee",
+        "raw_target_name": "site visits and evaluations"
+      }
+    ],
+    "first_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "last_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "USOC site evaluation team",
+    "action": "is in",
+    "target": "Houston",
+    "original_sources": [
+      "USOC site evaluation team"
+    ],
+    "original_targets": [
+      "Houston"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+        "exact_quote": "Over the four-day period in which the USOC site evaluation team is in Houston, two days will be devoted to venue tours and presentations.",
+        "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "USOC site evaluation team",
+        "raw_target_name": "Houston"
+      }
+    ],
+    "first_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "last_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Ken",
+    "action": "is",
+    "target": "the most identifiable international corporate leader in Houston",
+    "original_sources": [
+      "Ken"
+    ],
+    "original_targets": [
+      "the most identifiable international corporate leader in Houston"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+        "exact_quote": "As arguably the most identifiable international corporate leader in Houston and as the Chairman of the 1990 Economic Summit and the 1992 Republican National Convention, both of which you left with a positive surplus (very important to the Olympics), you are in an excellent position to discuss Houston's international status.",
+        "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Ken",
+        "raw_target_name": "the most identifiable international corporate leader in Houston"
+      }
+    ],
+    "first_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "last_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "George DeMontrond, Susan Bandy and the writer",
+    "action": "would very much appreciate",
+    "target": "15 minutes or so of Ken's time",
+    "original_sources": [
+      "George DeMontrond, Susan Bandy and the writer"
+    ],
+    "original_targets": [
+      "15 minutes or so of Ken's time"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+        "exact_quote": "George DeMontrond, Susan Bandy (the Houston 2012 Exec Director) and I would very much appreciate 15 minutes or so of your time to update you on Houston's bid efforts and discuss your potential participation in the upcoming site visit.",
+        "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "George DeMontrond, Susan Bandy and the writer",
+        "raw_target_name": "15 minutes or so of Ken's time"
+      }
+    ],
+    "first_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "last_seen": "Mon, 14 May 2001 19:36:00 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Kelly Williams",
+    "action": "thanks",
+    "target": "Tory",
+    "original_sources": [
+      "Kelly Williams"
+    ],
+    "original_targets": [
+      "Tory"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+        "exact_quote": "Many thanks,",
+        "timestamp": "Tue, 22 May 2001 09:42:39 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Kelly Williams",
+        "raw_target_name": "Tory"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 09:42:39 -0700",
+    "last_seen": "Tue, 22 May 2001 09:42:39 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Courtney Campbell",
+    "action": "thanks",
+    "target": "Kenneth Lay",
+    "original_sources": [
+      "Courtney Campbell"
+    ],
+    "original_targets": [
+      "Kenneth Lay"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+        "exact_quote": "I want to thank you for taking time out of your busy schedule to help me",
+        "timestamp": "05/11/2001 06:39 PM",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Courtney Campbell",
+        "raw_target_name": "Kenneth Lay"
+      }
+    ],
+    "first_seen": "05/11/2001 06:39 PM",
+    "last_seen": "05/11/2001 06:39 PM",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "David Campbell",
+    "action": "admires",
+    "target": "Enron",
+    "original_sources": [
+      "David Campbell"
+    ],
+    "original_targets": [
+      "Enron"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+        "exact_quote": "I really admire Enron as a company",
+        "timestamp": "05/11/2001 06:39 PM",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "David Campbell",
+        "raw_target_name": "Enron"
+      }
+    ],
+    "first_seen": "05/11/2001 06:39 PM",
+    "last_seen": "05/11/2001 06:39 PM",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "David Campbell",
+    "action": "looks forward to assisting",
+    "target": "Kenneth Lay",
+    "original_sources": [
+      "David Campbell"
+    ],
+    "original_targets": [
+      "Kenneth Lay"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+        "exact_quote": "I look forward to assisting you and Enron where ever you need help.",
+        "timestamp": "05/11/2001 06:39 PM",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "David Campbell",
+        "raw_target_name": "Kenneth Lay"
+      }
+    ],
+    "first_seen": "05/11/2001 06:39 PM",
+    "last_seen": "05/11/2001 06:39 PM",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Holly Korman",
+    "action": "attached",
+    "target": "Mrs. Lay's information",
+    "original_sources": [
+      "Holly Korman"
+    ],
+    "original_targets": [
+      "Mrs. Lay's information"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<7457472.1075845189537.JavaMail.evans@thyme>",
+        "exact_quote": "Per Jessica's request I have attached the most updated copies of Mrs. Lay's information.",
+        "timestamp": "Mon, 21 May 2001 06:21:47 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Holly Korman",
+        "raw_target_name": "Mrs. Lay's information"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 06:21:47 -0700",
+    "last_seen": "Mon, 21 May 2001 06:21:47 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Holly Korman",
+    "action": "sent",
+    "target": "email",
+    "original_sources": [
+      "Holly Korman"
+    ],
+    "original_targets": [
+      "email"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<7457472.1075845189537.JavaMail.evans@thyme>",
+        "exact_quote": "Sent: Monday, May 14, 2001 3:49 PM",
+        "timestamp": "Mon, 21 May 2001 06:21:47 -0700",
+        "context_location": "Email header",
+        "raw_source_name": "Holly Korman",
+        "raw_target_name": "email"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 06:21:47 -0700",
+    "last_seen": "Mon, 21 May 2001 06:21:47 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Jessica",
+    "action": "requested",
+    "target": "Mrs. Lay's information",
+    "original_sources": [
+      "Jessica"
+    ],
+    "original_targets": [
+      "Mrs. Lay's information"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<7457472.1075845189537.JavaMail.evans@thyme>",
+        "exact_quote": "Per Jessica's request I have attached the most updated copies of Mrs. Lay's information.",
+        "timestamp": "Mon, 21 May 2001 06:21:47 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Jessica",
+        "raw_target_name": "Mrs. Lay's information"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 06:21:47 -0700",
+    "last_seen": "Mon, 21 May 2001 06:21:47 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Shawn Gross",
+    "action": "is developing",
+    "target": "2.5-acre tract at the corner of Kirby & Braeswood",
+    "original_sources": [
+      "Shawn Gross"
+    ],
+    "original_targets": [
+      "2.5-acre tract at the corner of Kirby & Braeswood"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+        "exact_quote": "He planning on developing a 2.5-acre tract at the corner of Kirby & Braeswood.",
+        "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Shawn Gross",
+        "raw_target_name": "2.5-acre tract at the corner of Kirby & Braeswood"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "last_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Shawn Gross",
+    "action": "has",
+    "target": "investment opportunity",
+    "original_sources": [
+      "Shawn Gross"
+    ],
+    "original_targets": [
+      "investment opportunity"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+        "exact_quote": "I wanted to inform you of an investment opportunity with Shawn Gross.",
+        "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Shawn Gross",
+        "raw_target_name": "investment opportunity"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "last_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Jenard",
+    "action": "was spoken to",
+    "target": "about the project",
+    "original_sources": [
+      "Jenard"
+    ],
+    "original_targets": [
+      "about the project"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+        "exact_quote": "I spoke to Jenard about the project before I've been able to discuss it further with Shawn.",
+        "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Jenard",
+        "raw_target_name": "about the project"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "last_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Providence",
+    "action": "is getting",
+    "target": "rental rates in the $1.22 per square foot",
+    "original_sources": [
+      "Providence"
+    ],
+    "original_targets": [
+      "rental rates in the $1.22 per square foot"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+        "exact_quote": "The Providence across the street is getting rental rates in the $1.22 per square foot",
+        "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Providence",
+        "raw_target_name": "rental rates in the $1.22 per square foot"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "last_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Kirby Place",
+    "action": "is getting",
+    "target": "rental rates in the $1.13 per square foot",
+    "original_sources": [
+      "Kirby Place"
+    ],
+    "original_targets": [
+      "rental rates in the $1.13 per square foot"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+        "exact_quote": "Kirby Place, an older apartment complex, is getting $1.13 per square foot.",
+        "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Kirby Place",
+        "raw_target_name": "rental rates in the $1.13 per square foot"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "last_seen": "Tue, 22 May 2001 16:11:11 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "David W Delainey",
+    "action": "believes",
+    "target": "need to allocate 30-50% of Gov't./public Affairs out of commercial support",
+    "original_sources": [
+      "David W Delainey"
+    ],
+    "original_targets": [
+      "need to allocate 30-50% of Gov't./public Affairs out of commercial support"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<23032788.1075845189443.JavaMail.evans@thyme>",
+        "exact_quote": "Steve Kean and I believe quite strongly, within a four peer group structure,  that we need to allocate somewhere between 30 and 50 percent of Gov't./ public  Affairs out of commercial support into specialized technical",
+        "timestamp": "Thu, 17 May 2001 05:53:54 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "David W Delainey",
+        "raw_target_name": "need to allocate 30-50% of Gov't./public Affairs out of commercial support"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 05:53:54 -0700",
+    "last_seen": "Thu, 17 May 2001 05:53:54 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "David W Delainey",
+    "action": "is concerned about",
+    "target": "impact of the 'preferred' distribution",
+    "original_sources": [
+      "David W Delainey"
+    ],
+    "original_targets": [
+      "impact of the 'preferred' distribution"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<23032788.1075845189443.JavaMail.evans@thyme>",
+        "exact_quote": "I continue to be  very concerned about the impact of the 'preferred' distribution  relative to the bottom category for ' commercial support' groups",
+        "timestamp": "Thu, 17 May 2001 05:53:54 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "David W Delainey",
+        "raw_target_name": "impact of the 'preferred' distribution"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 05:53:54 -0700",
+    "last_seen": "Thu, 17 May 2001 05:53:54 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "David W Delainey",
+    "action": "intends to push hard for",
+    "target": "remapping of Gov't Affairs by year-end",
+    "original_sources": [
+      "David W Delainey"
+    ],
+    "original_targets": [
+      "remapping of Gov't Affairs by year-end"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<23032788.1075845189443.JavaMail.evans@thyme>",
+        "exact_quote": "If we stay with the four group stucture, I intend to push hard for the remapping of Gov't Affairs by year-end",
+        "timestamp": "Thu, 17 May 2001 05:53:54 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "David W Delainey",
+        "raw_target_name": "remapping of Gov't Affairs by year-end"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 05:53:54 -0700",
+    "last_seen": "Thu, 17 May 2001 05:53:54 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Walter Pye",
+    "action": "hosts",
+    "target": "WPO Forum Meeting",
+    "original_sources": [
+      "Walter Pye"
+    ],
+    "original_targets": [
+      "WPO Forum Meeting"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<33172107.1075845189787.JavaMail.evans@thyme>",
+        "exact_quote": "hosted by Walter Pye",
+        "timestamp": "Tue, 22 May 2001 13:29:45 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Walter Pye",
+        "raw_target_name": "WPO Forum Meeting"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:29:45 -0700",
+    "last_seen": "Tue, 22 May 2001 13:29:45 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Walter Pye",
+    "action": "requests",
+    "target": "r.s.v.p.",
+    "original_sources": [
+      "Walter Pye"
+    ],
+    "original_targets": [
+      "r.s.v.p."
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<33172107.1075845189787.JavaMail.evans@thyme>",
+        "exact_quote": "Please r.s.v.p. to me by return e-mail.",
+        "timestamp": "Tue, 22 May 2001 13:29:45 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Walter Pye",
+        "raw_target_name": "r.s.v.p."
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 13:29:45 -0700",
+    "last_seen": "Tue, 22 May 2001 13:29:45 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Joe Barry",
+    "action": "invite",
+    "target": "Mr Lay",
+    "original_sources": [
+      "Joe Barry"
+    ],
+    "original_targets": [
+      "Mr Lay"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "I would like to invite you to give a keynote presentation at the conference.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "Joe Barry",
+        "raw_target_name": "Mr Lay"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Eyeforenergy",
+    "action": "host",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "Eyeforenergy"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Eyeforenergy Asia 2001 takes place at the Shangri La Hotel in Singapore,",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Eyeforenergy",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Eyeforenergy Asia 2001",
+    "action": "follow-up",
+    "target": "e-Business for Energy Asia Pacific",
+    "original_sources": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "original_targets": [
+      "e-Business for Energy Asia Pacific"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "It is the follow-up to last year's e-Business for Energy Asia Pacific,",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Eyeforenergy Asia 2001",
+        "raw_target_name": "e-Business for Energy Asia Pacific"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Caltex",
+    "action": "speak",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "Caltex"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Caltex",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "BP",
+    "action": "speak",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "BP"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "BP",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Shell",
+    "action": "speak",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "Shell"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Shell",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Petronas",
+    "action": "speak",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "Petronas"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Petronas",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Premier",
+    "action": "speak",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "Premier"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Premier",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Texaco",
+    "action": "speak",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "Texaco"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Texaco",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "speak",
+    "target": "Eyeforenergy Asia 2001",
+    "original_sources": [
+      "Enron"
+    ],
+    "original_targets": [
+      "Eyeforenergy Asia 2001"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+        "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+        "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Enron",
+        "raw_target_name": "Eyeforenergy Asia 2001"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "last_seen": "Tue, 22 May 2001 07:48:16 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Ken",
+    "action": "inviting",
+    "target": "Greg",
+    "original_sources": [
+      "Ken"
+    ],
+    "original_targets": [
+      "Greg"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+        "exact_quote": "thank you again for inviting me to Houston",
+        "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Ken",
+        "raw_target_name": "Greg"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "last_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "providing support",
+    "target": "Technology for All",
+    "original_sources": [
+      "Enron"
+    ],
+    "original_targets": [
+      "Technology for All"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+        "exact_quote": "for the support you and Enron are providing to Technology for All",
+        "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Enron",
+        "raw_target_name": "Technology for All"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "last_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "providing support",
+    "target": "joint TFA/SmartForce project",
+    "original_sources": [
+      "Enron"
+    ],
+    "original_targets": [
+      "joint TFA/SmartForce project"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+        "exact_quote": "and the joint TFA/SmartForce project",
+        "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "Enron",
+        "raw_target_name": "joint TFA/SmartForce project"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "last_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Greg",
+    "action": "discussed",
+    "target": "Ken",
+    "original_sources": [
+      "Greg"
+    ],
+    "original_targets": [
+      "Ken"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+        "exact_quote": "I also wanted to follow up our brief conversation",
+        "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Greg",
+        "raw_target_name": "Ken"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "last_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Ken",
+    "action": "indicated",
+    "target": "head of HR",
+    "original_sources": [
+      "Ken"
+    ],
+    "original_targets": [
+      "head of HR"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+        "exact_quote": "I believe that you indicated that your head of HR would be a good start",
+        "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Ken",
+        "raw_target_name": "head of HR"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "last_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "SmartForce",
+    "action": "help",
+    "target": "Enron",
+    "original_sources": [
+      "SmartForce"
+    ],
+    "original_targets": [
+      "Enron"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+        "exact_quote": "whether there are ways in which SmartForce can help Enron achieve some of its business objectives",
+        "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "SmartForce",
+        "raw_target_name": "Enron"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "last_seen": "Mon, 21 May 2001 10:10:22 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "John",
+    "action": "visited",
+    "target": "Governor",
+    "original_sources": [
+      "John"
+    ],
+    "original_targets": [
+      "Governor"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+        "exact_quote": "I hope you 'visit' with the Governor was as fruitful as mine.",
+        "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "John",
+        "raw_target_name": "Governor"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "last_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "John",
+    "action": "discuss",
+    "target": "Ken",
+    "original_sources": [
+      "John"
+    ],
+    "original_targets": [
+      "Ken"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+        "exact_quote": "There is an opportunity to discuss a way in which Enron could perhaps become involved in a very significant set of new developments within the sphere of influence in which I operate.",
+        "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "John",
+        "raw_target_name": "Ken"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "last_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "become involved",
+    "target": "Regional Energy Efficiency Initiative",
+    "original_sources": [
+      "Enron"
+    ],
+    "original_targets": [
+      "Regional Energy Efficiency Initiative"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+        "exact_quote": "There is an opportunity to discuss a way in which Enron could perhaps become involved in a very significant set of new developments within the sphere of influence in which I operate.",
+        "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Enron",
+        "raw_target_name": "Regional Energy Efficiency Initiative"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "last_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "John",
+    "action": "look forward",
+    "target": "AI conference",
+    "original_sources": [
+      "John"
+    ],
+    "original_targets": [
+      "AI conference"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+        "exact_quote": "I look forward to getting to Aspen for the AI conference.",
+        "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+        "context_location": "Paragraph 3",
+        "raw_source_name": "John",
+        "raw_target_name": "AI conference"
+      }
+    ],
+    "first_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "last_seen": "Thu, 17 May 2001 13:20:44 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Kenneth Lay",
+    "action": "chaired",
+    "target": "session on energy",
+    "original_sources": [
+      "Dr. Kenneth L. Lay"
+    ],
+    "original_targets": [
+      "session on energy"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+        "exact_quote": "I attended the session on energy you chaired during that OECD Forum.",
+        "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+        "context_location": "Paragraph 2",
+        "raw_source_name": "Dr. Kenneth L. Lay",
+        "raw_target_name": "session on energy"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "last_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "independent consultant",
+    "action": "met",
+    "target": "Kenneth Lay",
+    "original_sources": [
+      "independent consultant"
+    ],
+    "original_targets": [
+      "Dr. Kenneth L. Lay"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+        "exact_quote": "We met less than a week ago, on Wednesday 16 May 2001, during the OECD Forum 2001 in Paris.",
+        "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "independent consultant",
+        "raw_target_name": "Dr. Kenneth L. Lay"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "last_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "independent consultant",
+    "action": "proposing",
+    "target": "contribution to Enron",
+    "original_sources": [
+      "independent consultant"
+    ],
+    "original_targets": [
+      "contribution to Enron"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+        "exact_quote": "I am writing you to propose my contribution in these purposes.",
+        "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "independent consultant",
+        "raw_target_name": "contribution to Enron"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "last_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "having",
+    "target": "problems with Dabhol power plant",
+    "original_sources": [
+      "Enron"
+    ],
+    "original_targets": [
+      "problems with Dabhol power plant"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+        "exact_quote": "The current problems with Enron's Dabhol power plant in the Maharashtra state in India stresses the kind of importance I'm mentioning.",
+        "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+        "context_location": "Paragraph 5",
+        "raw_source_name": "Enron",
+        "raw_target_name": "problems with Dabhol power plant"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "last_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Exxon",
+    "action": "leading",
+    "target": "oil-pipeline project in Chad and Cameroon",
+    "original_sources": [
+      "Exxon"
+    ],
+    "original_targets": [
+      "oil-pipeline project in Chad and Cameroon"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+        "exact_quote": "this is a $4 billion project recently launched, with the support of the World Bank, and led by three major energy firms: Exxon and Chevron of the USA, and Petronas of Malaysia.",
+        "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+        "context_location": "Paragraph 6",
+        "raw_source_name": "Exxon",
+        "raw_target_name": "oil-pipeline project in Chad and Cameroon"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "last_seen": "Tue, 22 May 2001 09:56:24 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "we",
+    "action": "send",
+    "target": "residential customers",
+    "original_sources": [
+      "we"
+    ],
+    "original_targets": [
+      "residential customers"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<8002491.1075845189943.JavaMail.evans@thyme>",
+        "exact_quote": "send to our 16,000 residential customers",
+        "timestamp": "Tue, 22 May 2001 16:37:56 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "we",
+        "raw_target_name": "residential customers"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:37:56 -0700",
+    "last_seen": "Tue, 22 May 2001 16:37:56 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "me",
+    "action": "review",
+    "target": "letter",
+    "original_sources": [
+      "me"
+    ],
+    "original_targets": [
+      "letter"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<8002491.1075845189943.JavaMail.evans@thyme>",
+        "exact_quote": "Please review",
+        "timestamp": "Tue, 22 May 2001 16:37:56 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "me",
+        "raw_target_name": "letter"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:37:56 -0700",
+    "last_seen": "Tue, 22 May 2001 16:37:56 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "me",
+    "action": "let know",
+    "target": "you",
+    "original_sources": [
+      "me"
+    ],
+    "original_targets": [
+      "you"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<8002491.1075845189943.JavaMail.evans@thyme>",
+        "exact_quote": "let me know your comments",
+        "timestamp": "Tue, 22 May 2001 16:37:56 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "me",
+        "raw_target_name": "you"
+      }
+    ],
+    "first_seen": "Tue, 22 May 2001 16:37:56 -0700",
+    "last_seen": "Tue, 22 May 2001 16:37:56 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Enron",
+    "action": "provides",
+    "target": "Daily EnronOnline Executive Summary",
+    "original_sources": [
+      "EnronOnline"
+    ],
+    "original_targets": [
+      "Daily EnronOnline Executive Summary"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<2200448.1075845189660.JavaMail.evans@thyme>",
+        "exact_quote": "Following please find the Daily EnronOnline Executive Summary.",
+        "timestamp": "Mon, 21 May 2001 15:24:26 -0700",
+        "context_location": "Paragraph 1",
+        "raw_source_name": "EnronOnline",
+        "raw_target_name": "Daily EnronOnline Executive Summary"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 15:24:26 -0700",
+    "last_seen": "Mon, 21 May 2001 15:24:26 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Bryan Deluca",
+    "action": "can be contacted at",
+    "target": "x36161",
+    "original_sources": [
+      "Bryan Deluca"
+    ],
+    "original_targets": [
+      "x36161"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<2200448.1075845189660.JavaMail.evans@thyme>",
+        "exact_quote": "please feel free to contact either Bryan Deluca at x36161",
+        "timestamp": "Mon, 21 May 2001 15:24:26 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Bryan Deluca",
+        "raw_target_name": "x36161"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 15:24:26 -0700",
+    "last_seen": "Mon, 21 May 2001 15:24:26 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "Simone La Rose",
+    "action": "can be contacted at",
+    "target": "x31670",
+    "original_sources": [
+      "Simone La Rose"
+    ],
+    "original_targets": [
+      "x31670"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<2200448.1075845189660.JavaMail.evans@thyme>",
+        "exact_quote": "or Simone La Rose at x31670",
+        "timestamp": "Mon, 21 May 2001 15:24:26 -0700",
+        "context_location": "Paragraph 4",
+        "raw_source_name": "Simone La Rose",
+        "raw_target_name": "x31670"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 15:24:26 -0700",
+    "last_seen": "Mon, 21 May 2001 15:24:26 -0700",
+    "total_independent_proofs": 1
+  },
+  {
+    "source": "evans",
+    "action": "sent",
+    "target": "JavaMail",
+    "original_sources": [
+      "evans"
+    ],
+    "original_targets": [
+      "JavaMail"
+    ],
+    "proof_timeline": [
+      {
+        "source_id": "<11938158.1075845189559.JavaMail.evans@thyme>",
+        "exact_quote": "evans@thyme",
+        "timestamp": "Mon, 21 May 2001 09:26:52 -0700",
+        "context_location": "Email header",
+        "raw_source_name": "evans",
+        "raw_target_name": "JavaMail"
+      }
+    ],
+    "first_seen": "Mon, 21 May 2001 09:26:52 -0700",
+    "last_seen": "Mon, 21 May 2001 09:26:52 -0700",
+    "total_independent_proofs": 1
+  }
+]

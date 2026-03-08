@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Memory Graph Explorer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+<!-- ═══════════════════ SIDEBAR ═══════════════════ -->
+<div id="sidebar">
+  <div id="brand">
+    <span class="brand-dot"></span>
+    <span>Layer10</span>
+    <span class="brand-sub">Memory Graph</span>
+  </div>
+
+  <div id="search-wrap">
+    <input id="global-search" type="text" placeholder="Search everything…" autocomplete="off"/>
+    <div id="search-results" class="hidden"></div>
+  </div>
+
+  <nav id="tabs">
+    <button class="tab active" data-tab="graph">Graph</button>
+    <button class="tab" data-tab="entities">Entities</button>
+    <button class="tab" data-tab="evidence">Evidence</button>
+    <button class="tab" data-tab="merges">Merges</button>
+  </nav>
+
+  <!-- GRAPH CONTROLS -->
+  <div class="tab-panel active" id="tab-graph">
+    <div class="section-label">FILTER</div>
+    <select id="filter-relation">
+      <option value="all">All relations</option>
+    </select>
+    <div class="toggle-row">
+      <label><input type="checkbox" id="show-labels" checked/> Labels</label>
+      <label><input type="checkbox" id="show-orphans"/> Orphans</label>
+    </div>
+    <div class="section-label">LAYOUT</div>
+    <div class="btn-row">
+      <button class="pill-btn" id="btn-reset">Reset</button>
+      <button class="pill-btn" id="btn-freeze">Freeze</button>
+    </div>
+    <button class="pill-btn regen-btn" id="btn-regen">↺ Rebuild Graph</button>
+    <div id="undo-notice" class="hidden" style="font-size:11px;color:var(--accent2);font-family:var(--mono);padding:2px 0"><span id="undo-count">0</span> merge(s) undone — rebuild to apply</div>
+    <div class="section-label">STATS</div>
+    <div id="graph-stats" class="stat-grid">
+      <div class="stat-cell"><div class="stat-n" id="s-nodes">-</div><div class="stat-k">Nodes</div></div>
+      <div class="stat-cell"><div class="stat-n" id="s-edges">-</div><div class="stat-k">Edges</div></div>
+      <div class="stat-cell"><div class="stat-n" id="s-evidence">-</div><div class="stat-k">Evidence</div></div>
+      <div class="stat-cell"><div class="stat-n" id="s-merges">-</div><div class="stat-k">Merges</div></div>
+    </div>
+  </div>
+
+  <!-- ENTITIES LIST -->
+  <div class="tab-panel hidden" id="tab-entities">
+    <input class="list-search" id="entity-search" type="text" placeholder="Filter entities…"/>
+    <div id="entity-type-chips" class="chip-row"></div>
+    <div id="entity-list" class="scroll-list"></div>
+  </div>
+
+  <!-- EVIDENCE LIST -->
+  <div class="tab-panel hidden" id="tab-evidence">
+    <input class="list-search" id="evidence-search" type="text" placeholder="Filter by quote or source…"/>
+    <div id="evidence-list" class="scroll-list"></div>
+  </div>
+
+  <!-- MERGES LIST -->
+  <div class="tab-panel hidden" id="tab-merges">
+    <div id="merges-list" class="scroll-list"></div>
+  </div>
+</div>
+
+<!-- ═══════════════════ MAIN CANVAS ═══════════════════ -->
+<div id="main">
+  <div id="graph-container">
+    <svg id="graph-svg">
+      <defs>
+        <marker id="arrow" markerWidth="8" markerHeight="8" refX="18" refY="3" orient="auto">
+          <path d="M0,0 L0,6 L8,3 z" fill="var(--edge-col)"/>
+        </marker>
+      </defs>
+      <g id="zoom-group">
+        <g id="edges-g"></g>
+        <g id="edge-labels-g"></g>
+        <g id="nodes-g"></g>
+        <g id="node-labels-g"></g>
+      </g>
+    </svg>
+    <div id="zoom-controls">
+      <button id="zin">+</button>
+      <button id="zout">−</button>
+      <button id="zfit">⊡</button>
+    </div>
+    <div id="loading-overlay"><div class="spinner"></div><p>Loading graph…</p></div>
+  </div>
+</div>
+
+<!-- ═══════════════════ DETAIL DRAWER ═══════════════════ -->
+<div id="drawer" class="hidden">
+  <div id="drawer-header">
+    <span id="drawer-kind-badge"></span>
+    <span id="drawer-title"></span>
+    <button id="drawer-close">✕</button>
+  </div>
+  <div id="drawer-body"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

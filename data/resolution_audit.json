@@ -1,0 +1,14 @@
+[
+  {
+    "original": "Dr. Kenneth L. Lay",
+    "mapped_to": "Kenneth Lay",
+    "type": "PERSON",
+    "reason": "Balanced Fuzzy Score 100"
+  },
+  {
+    "original": "EnronOnline",
+    "mapped_to": "Enron",
+    "type": "ORGANIZATION",
+    "reason": "Safe Substring"
+  }
+]

@@ -1,0 +1,1796 @@
+[
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Mr Lay",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Ron Green",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Houston Pipe Line Company",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "American Electric Power",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "HPL",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ron Green",
+        "action": "request",
+        "target": "Mr Lay",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+            "exact_quote": "I am the Director of Field Operations for Houston Pipe Line Company and request your support on a simple, yet important matter.",
+            "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Houston Pipe Line Company",
+        "action": "transfer",
+        "target": "American Electric Power",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+            "exact_quote": "As currently planned, the employees of Houston Pipe Line will transfer to  American Electric Power effective June1.",
+            "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Ron Green",
+        "action": "thank",
+        "target": "Mr Lay",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+            "exact_quote": "My request is for a simple thank you from you to our employees for the work that they have done for Enron.",
+            "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      },
+      {
+        "source": "HPL",
+        "action": "become",
+        "target": "Enron",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<28141069.1075845189467.JavaMail.evans@thyme>",
+            "exact_quote": "Our field employees look forward to this change with the mixed emotions of new opportunities and challenges but equally with the pride that HPL was one of the original building blocks of the great company that Enron has become today.",
+            "timestamp": "Thu, 17 May 2001 09:07:23 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "The Independent Institute",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Jerry Bruckheimer",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Robert B. Stinnett",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "David Friedman",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Pearl Harbor",
+        "entity_type": "EVENT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Independent Institute",
+        "action": "provides",
+        "target": "updates of the Institute's current research publications, events and media programs",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+            "exact_quote": "We provide you with updates of the Institute's current research publications, events and media programs.",
+            "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Jerry Bruckheimer",
+        "action": "consulted",
+        "target": "Pearl Harbor survivors, historians, and government officials",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+            "exact_quote": "during the film's production Jerry Bruckheimer, the producer, made sure to consult Pearl Harbor survivors, historians, and government officials.",
+            "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      },
+      {
+        "source": "Robert B. Stinnett",
+        "action": "wrote",
+        "target": "DAY OF DECEIT: The Truth About FDR and Pearl Harbor",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+            "exact_quote": "writes Robert B. Stinnett in the new paperback edition of his book DAY OF DECEIT: The Truth About FDR and Pearl Harbor,",
+            "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "David Friedman",
+        "action": "spoke",
+        "target": "Will Encryption Protect Privacy and Make Government Obsolete?",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<5949165.1075845189688.JavaMail.evans@thyme>",
+            "exact_quote": "Will Encryption Protect Privacy and Make Government Obsolete? -- David Friedman Transcript Now Online",
+            "timestamp": "Mon, 21 May 2001 18:45:34 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "U.S. DOE",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Office of Industrial Technologies",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Dewey-Ballantine",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "ASE",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Theo Johnson",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Natasha Ewell",
+        "entity_type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Theo Johnson",
+        "action": "speaking",
+        "target": "Task Force",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+            "exact_quote": "Guest Speaker Theo Johnson Manager, Best Practices Program U.S. DOE, Office of Industrial Technologies",
+            "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Task Force",
+        "action": "promoting",
+        "target": "best corporate energy management practices",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+            "exact_quote": "Promotion of best corporate energy management practices by industry",
+            "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Task Force",
+        "action": "educating",
+        "target": "media and policymakers",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+            "exact_quote": "Education of media and policymakers on the benefits of industrial energy-efficiency policies",
+            "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Task Force",
+        "action": "supporting",
+        "target": "restoration/increase in the Office of Industrial Technologies (OIT) budget",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+            "exact_quote": "Advocacy in support of restoration/increase in the Office of Industrial Technologies (OIT) budget",
+            "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Natasha Ewell",
+        "action": "contacting",
+        "target": "attendees",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<3016711.1075845189606.JavaMail.evans@thyme>",
+            "exact_quote": "If you have not already been contacted, please RSVP by May 22, 2001 to Natasha Ewell at (202) 530-2208 or newell@ase.org",
+            "timestamp": "Mon, 21 May 2001 11:15:45 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Beau",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Beau",
+        "action": "advise",
+        "target": "recipient",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<1122139.1075845189628.JavaMail.evans@thyme>",
+            "exact_quote": "Please advise.",
+            "timestamp": "Mon, 21 May 2001 13:23:19 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Enron",
+        "action": "use",
+        "target": "line",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<1122139.1075845189628.JavaMail.evans@thyme>",
+            "exact_quote": "Can we use the Enron line again now that it is paid-off",
+            "timestamp": "Mon, 21 May 2001 13:23:19 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Beau",
+        "action": "fund",
+        "target": "account",
+        "confidence_score": 0.7,
+        "proof": [
+          {
+            "source_id": "<1122139.1075845189628.JavaMail.evans@thyme>",
+            "exact_quote": "We might have to fund the account around $2 million",
+            "timestamp": "Mon, 21 May 2001 13:23:19 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Ken Hendricks",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "John Rust",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Malcolm",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Peter Hartley",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Rob Porter",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Ken",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Yale",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Rice",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "U.T. Austin",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "U.B.C.",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Northwestern",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "FCC",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Enron",
+        "action": "has",
+        "target": "offers",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+            "exact_quote": "We have very serious offers out to two young - but very highly regarded - economists doing work in areas of interest to Enron.",
+            "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Hendricks",
+        "action": "is being recruited for",
+        "target": "Lay family chairs",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+            "exact_quote": "Hendricks is being recruited for one of the Lay family chairs.",
+            "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Rust",
+        "action": "is being recruited for",
+        "target": "Center in Computational Economics and Finance",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+            "exact_quote": "Rust, now at Yale, is being recruited for our new university-wide Center in Computational Economics and Finance.",
+            "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Hendricks and Rust",
+        "action": "have",
+        "target": "research of interest to Enron",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+            "exact_quote": "The research programs of Hendricks and Rust look extremely exciting and bode well for a very productive relationship between Enron and the economics department at Rice were we to succeed in recruiting both of these outstanding economists at the peak of their careers.",
+            "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Hendricks",
+        "action": "is regarded as",
+        "target": "leading expert",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+            "exact_quote": "Ken is regarding as one of the leading experts (along with his co-author) on testing the implications of auction theory for real-world auctions.",
+            "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      },
+      {
+        "source": "Hendricks and co-author",
+        "action": "pioneered",
+        "target": "study of auctions of Outer Continental Shelf (OCS) oil and gas leases",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<16717292.1075845189813.JavaMail.evans@thyme>",
+            "exact_quote": "Ken and his co-author (Rob Porter from Northwestern) pioneered the study of auctions of Outer Continental Shelf (OCS) oil and gas leases.",
+            "timestamp": "Tue, 22 May 2001 13:35:10 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Kudlow",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "kudlow 052201.doc",
+        "entity_type": "PROJECT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Kudlow",
+        "action": "created",
+        "target": "kudlow 052201.doc",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<16269214.1075845189838.JavaMail.evans@thyme>",
+            "exact_quote": "kudlow 052201.doc",
+            "timestamp": "Tue, 22 May 2001 13:42:07 -0700",
+            "context_location": "File name"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Dr. Lay",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Sarah A. Davis",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Planners Services Group",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Extraordinary Events",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "TBA Inc.",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Ward & Ames",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "ONE ENRON Holiday Party Planning Committee",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Enron Field",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "ECT",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ONE ENRON Holiday Party Planning Committee",
+        "action": "selected",
+        "target": "Planners Services Group",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+            "exact_quote": "was made by the ONE ENRON Holiday Party Planning Committee.",
+            "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Planners Services Group",
+        "action": "has an established relationship with",
+        "target": "Enron Field",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+            "exact_quote": "(Planners has an established relationship with Enron Field and coordinated ECT's Holiday party there last year.)",
+            "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Ward & Ames",
+        "action": "provided",
+        "target": "sound ideas",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+            "exact_quote": "Ward & Ames provided sound ideas in their proposal",
+            "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Ward & Ames",
+        "action": "holds an internal perception of being",
+        "target": "controlling",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+            "exact_quote": "holds an internal perception of being 'controlling' vs flexible",
+            "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "ONE ENRON Holiday Party Planning Committee",
+        "action": "unanimously selected",
+        "target": "Planners Services Group",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<5696332.1075845189513.JavaMail.evans@thyme>",
+            "exact_quote": "in the end Planners was unanimously selected by the Planning Committee.",
+            "timestamp": "Thu, 17 May 2001 16:28:03 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Ken",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "George DeMontrond",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Susan Bandy",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "United States Olympic Committee",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Houston 2012",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Port Commissioner",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "2012 Olympic Games",
+        "entity_type": "EVENT"
+      },
+      {
+        "name": "1990 Economic Summit",
+        "entity_type": "EVENT"
+      },
+      {
+        "name": "1992 Republican National Convention",
+        "entity_type": "EVENT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "United States Olympic Committee",
+        "action": "will conduct",
+        "target": "site visits and evaluations",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+            "exact_quote": "This summer, the United States Olympic Committee (USOC) will conduct initial site visits and evaluations of the eight U.S. bid cities",
+            "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "USOC site evaluation team",
+        "action": "is in",
+        "target": "Houston",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+            "exact_quote": "Over the four-day period in which the USOC site evaluation team is in Houston, two days will be devoted to venue tours and presentations.",
+            "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Ken",
+        "action": "is",
+        "target": "the most identifiable international corporate leader in Houston",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+            "exact_quote": "As arguably the most identifiable international corporate leader in Houston and as the Chairman of the 1990 Economic Summit and the 1992 Republican National Convention, both of which you left with a positive surplus (very important to the Olympics), you are in an excellent position to discuss Houston's international status.",
+            "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      },
+      {
+        "source": "George DeMontrond, Susan Bandy and the writer",
+        "action": "would very much appreciate",
+        "target": "15 minutes or so of Ken's time",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<4102090.1075845189404.JavaMail.evans@thyme>",
+            "exact_quote": "George DeMontrond, Susan Bandy (the Houston 2012 Exec Director) and I would very much appreciate 15 minutes or so of your time to update you on Houston's bid efforts and discuss your potential participation in the upcoming site visit.",
+            "timestamp": "Mon, 14 May 2001 19:36:00 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Tory",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Kelly Williams",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Courtney Campbell",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Kenneth Lay",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "David Campbell",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Kelly Williams",
+        "action": "thanks",
+        "target": "Tory",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+            "exact_quote": "Many thanks,",
+            "timestamp": "Tue, 22 May 2001 09:42:39 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Courtney Campbell",
+        "action": "thanks",
+        "target": "Kenneth Lay",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+            "exact_quote": "I want to thank you for taking time out of your busy schedule to help me",
+            "timestamp": "05/11/2001 06:39 PM",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "David Campbell",
+        "action": "admires",
+        "target": "Enron",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+            "exact_quote": "I really admire Enron as a company",
+            "timestamp": "05/11/2001 06:39 PM",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "David Campbell",
+        "action": "looks forward to assisting",
+        "target": "Kenneth Lay",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22123549.1075845189735.JavaMail.evans@thyme>",
+            "exact_quote": "I look forward to assisting you and Enron where ever you need help.",
+            "timestamp": "05/11/2001 06:39 PM",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Holly Korman",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Elyse",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Jessica",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Rosalee",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Misha",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Mrs. Lay",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "ENRON",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Holly Korman",
+        "action": "attached",
+        "target": "Mrs. Lay's information",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<7457472.1075845189537.JavaMail.evans@thyme>",
+            "exact_quote": "Per Jessica's request I have attached the most updated copies of Mrs. Lay's information.",
+            "timestamp": "Mon, 21 May 2001 06:21:47 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Holly Korman",
+        "action": "sent",
+        "target": "email",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<7457472.1075845189537.JavaMail.evans@thyme>",
+            "exact_quote": "Sent: Monday, May 14, 2001 3:49 PM",
+            "timestamp": "Mon, 21 May 2001 06:21:47 -0700",
+            "context_location": "Email header"
+          }
+        ]
+      },
+      {
+        "source": "Jessica",
+        "action": "requested",
+        "target": "Mrs. Lay's information",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<7457472.1075845189537.JavaMail.evans@thyme>",
+            "exact_quote": "Per Jessica's request I have attached the most updated copies of Mrs. Lay's information.",
+            "timestamp": "Mon, 21 May 2001 06:21:47 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Shawn Gross",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Jenard",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Providence",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Kirby Place",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Shawn Gross",
+        "action": "is developing",
+        "target": "2.5-acre tract at the corner of Kirby & Braeswood",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+            "exact_quote": "He planning on developing a 2.5-acre tract at the corner of Kirby & Braeswood.",
+            "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Shawn Gross",
+        "action": "has",
+        "target": "investment opportunity",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+            "exact_quote": "I wanted to inform you of an investment opportunity with Shawn Gross.",
+            "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Jenard",
+        "action": "was spoken to",
+        "target": "about the project",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+            "exact_quote": "I spoke to Jenard about the project before I've been able to discuss it further with Shawn.",
+            "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      },
+      {
+        "source": "Providence",
+        "action": "is getting",
+        "target": "rental rates in the $1.22 per square foot",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+            "exact_quote": "The Providence across the street is getting rental rates in the $1.22 per square foot",
+            "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Kirby Place",
+        "action": "is getting",
+        "target": "rental rates in the $1.13 per square foot",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<1621598.1075845189863.JavaMail.evans@thyme>",
+            "exact_quote": "Kirby Place, an older apartment complex, is getting $1.13 per square foot.",
+            "timestamp": "Tue, 22 May 2001 16:11:11 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Steve Kean",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "David W Delainey",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Enron Energy Services",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "David W Delainey",
+        "action": "believes",
+        "target": "need to allocate 30-50% of Gov't./public Affairs out of commercial support",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<23032788.1075845189443.JavaMail.evans@thyme>",
+            "exact_quote": "Steve Kean and I believe quite strongly, within a four peer group structure,  that we need to allocate somewhere between 30 and 50 percent of Gov't./ public  Affairs out of commercial support into specialized technical",
+            "timestamp": "Thu, 17 May 2001 05:53:54 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "David W Delainey",
+        "action": "is concerned about",
+        "target": "impact of the 'preferred' distribution",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<23032788.1075845189443.JavaMail.evans@thyme>",
+            "exact_quote": "I continue to be  very concerned about the impact of the 'preferred' distribution  relative to the bottom category for ' commercial support' groups",
+            "timestamp": "Thu, 17 May 2001 05:53:54 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "David W Delainey",
+        "action": "intends to push hard for",
+        "target": "remapping of Gov't Affairs by year-end",
+        "confidence_score": 0.7,
+        "proof": [
+          {
+            "source_id": "<23032788.1075845189443.JavaMail.evans@thyme>",
+            "exact_quote": "If we stay with the four group stucture, I intend to push hard for the remapping of Gov't Affairs by year-end",
+            "timestamp": "Thu, 17 May 2001 05:53:54 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Walter Pye",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "WPO Forum",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "WPO Forum Meeting",
+        "entity_type": "PROJECT"
+      },
+      {
+        "name": "Brennan's Houston",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Walter Pye",
+        "action": "hosts",
+        "target": "WPO Forum Meeting",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<33172107.1075845189787.JavaMail.evans@thyme>",
+            "exact_quote": "hosted by Walter Pye",
+            "timestamp": "Tue, 22 May 2001 13:29:45 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Walter Pye",
+        "action": "requests",
+        "target": "r.s.v.p.",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<33172107.1075845189787.JavaMail.evans@thyme>",
+            "exact_quote": "Please r.s.v.p. to me by return e-mail.",
+            "timestamp": "Tue, 22 May 2001 13:29:45 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Mr Lay",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Joe Barry",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Eyeforenergy",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Caltex",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "BP",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Shell",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Petronas",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Premier",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Texaco",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Eyeforenergy Asia 2001",
+        "entity_type": "PROJECT"
+      },
+      {
+        "name": "e-Business for Energy Asia Pacific",
+        "entity_type": "PROJECT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Joe Barry",
+        "action": "invite",
+        "target": "Mr Lay",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "I would like to invite you to give a keynote presentation at the conference.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      },
+      {
+        "source": "Eyeforenergy",
+        "action": "host",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Eyeforenergy Asia 2001 takes place at the Shangri La Hotel in Singapore,",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Eyeforenergy Asia 2001",
+        "action": "follow-up",
+        "target": "e-Business for Energy Asia Pacific",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "It is the follow-up to last year's e-Business for Energy Asia Pacific,",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Caltex",
+        "action": "speak",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "BP",
+        "action": "speak",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "Shell",
+        "action": "speak",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "Petronas",
+        "action": "speak",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "Premier",
+        "action": "speak",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "Texaco",
+        "action": "speak",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 1.0,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "Enron",
+        "action": "speak",
+        "target": "Eyeforenergy Asia 2001",
+        "confidence_score": 0.5,
+        "proof": [
+          {
+            "source_id": "<28975878.1075845189712.JavaMail.evans@thyme>",
+            "exact_quote": "Speakers will come from companies such as Caltex, BP, Shell, Petronas, Premier and Texaco, and, hopefully, Enron.",
+            "timestamp": "Tue, 22 May 2001 07:48:16 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Ken",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Greg",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Technology for All",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "SmartForce",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ken",
+        "action": "inviting",
+        "target": "Greg",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+            "exact_quote": "thank you again for inviting me to Houston",
+            "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Enron",
+        "action": "providing support",
+        "target": "Technology for All",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+            "exact_quote": "for the support you and Enron are providing to Technology for All",
+            "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Enron",
+        "action": "providing support",
+        "target": "joint TFA/SmartForce project",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+            "exact_quote": "and the joint TFA/SmartForce project",
+            "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Greg",
+        "action": "discussed",
+        "target": "Ken",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+            "exact_quote": "I also wanted to follow up our brief conversation",
+            "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Ken",
+        "action": "indicated",
+        "target": "head of HR",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+            "exact_quote": "I believe that you indicated that your head of HR would be a good start",
+            "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "SmartForce",
+        "action": "help",
+        "target": "Enron",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<22687902.1075845189582.JavaMail.evans@thyme>",
+            "exact_quote": "whether there are ways in which SmartForce can help Enron achieve some of its business objectives",
+            "timestamp": "Mon, 21 May 2001 10:10:22 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Ken",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "John",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Governor",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "John",
+        "action": "visited",
+        "target": "Governor",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+            "exact_quote": "I hope you 'visit' with the Governor was as fruitful as mine.",
+            "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "John",
+        "action": "discuss",
+        "target": "Ken",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+            "exact_quote": "There is an opportunity to discuss a way in which Enron could perhaps become involved in a very significant set of new developments within the sphere of influence in which I operate.",
+            "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "Enron",
+        "action": "become involved",
+        "target": "Regional Energy Efficiency Initiative",
+        "confidence_score": 0.7,
+        "proof": [
+          {
+            "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+            "exact_quote": "There is an opportunity to discuss a way in which Enron could perhaps become involved in a very significant set of new developments within the sphere of influence in which I operate.",
+            "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "John",
+        "action": "look forward",
+        "target": "AI conference",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<17235741.1075845189490.JavaMail.evans@thyme>",
+            "exact_quote": "I look forward to getting to Aspen for the AI conference.",
+            "timestamp": "Thu, 17 May 2001 13:20:44 -0700",
+            "context_location": "Paragraph 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "Dr. Kenneth L. Lay",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Enron Corp",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "OECD",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "independent consultant",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Exxon",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Chevron",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Petronas",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "World Bank",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Dr. Kenneth L. Lay",
+        "action": "chaired",
+        "target": "session on energy",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+            "exact_quote": "I attended the session on energy you chaired during that OECD Forum.",
+            "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+            "context_location": "Paragraph 2"
+          }
+        ]
+      },
+      {
+        "source": "independent consultant",
+        "action": "met",
+        "target": "Dr. Kenneth L. Lay",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+            "exact_quote": "We met less than a week ago, on Wednesday 16 May 2001, during the OECD Forum 2001 in Paris.",
+            "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "independent consultant",
+        "action": "proposing",
+        "target": "contribution to Enron",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+            "exact_quote": "I am writing you to propose my contribution in these purposes.",
+            "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "Enron",
+        "action": "having",
+        "target": "problems with Dabhol power plant",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+            "exact_quote": "The current problems with Enron's Dabhol power plant in the Maharashtra state in India stresses the kind of importance I'm mentioning.",
+            "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+            "context_location": "Paragraph 5"
+          }
+        ]
+      },
+      {
+        "source": "Exxon",
+        "action": "leading",
+        "target": "oil-pipeline project in Chad and Cameroon",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<13841405.1075845189762.JavaMail.evans@thyme>",
+            "exact_quote": "this is a $4 billion project recently launched, with the support of the World Bank, and led by three major energy firms: Exxon and Chevron of the USA, and Petronas of Malaysia.",
+            "timestamp": "Tue, 22 May 2001 09:56:24 -0700",
+            "context_location": "Paragraph 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "residential customers",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "letter",
+        "entity_type": "PROJECT"
+      },
+      {
+        "name": "me",
+        "entity_type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "we",
+        "action": "send",
+        "target": "residential customers",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<8002491.1075845189943.JavaMail.evans@thyme>",
+            "exact_quote": "send to our 16,000 residential customers",
+            "timestamp": "Tue, 22 May 2001 16:37:56 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "me",
+        "action": "review",
+        "target": "letter",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<8002491.1075845189943.JavaMail.evans@thyme>",
+            "exact_quote": "Please review",
+            "timestamp": "Tue, 22 May 2001 16:37:56 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "me",
+        "action": "let know",
+        "target": "you",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<8002491.1075845189943.JavaMail.evans@thyme>",
+            "exact_quote": "let me know your comments",
+            "timestamp": "Tue, 22 May 2001 16:37:56 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "EnronOnline",
+        "entity_type": "ORGANIZATION"
+      },
+      {
+        "name": "Bryan Deluca",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "Simone La Rose",
+        "entity_type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EnronOnline",
+        "action": "provides",
+        "target": "Daily EnronOnline Executive Summary",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<2200448.1075845189660.JavaMail.evans@thyme>",
+            "exact_quote": "Following please find the Daily EnronOnline Executive Summary.",
+            "timestamp": "Mon, 21 May 2001 15:24:26 -0700",
+            "context_location": "Paragraph 1"
+          }
+        ]
+      },
+      {
+        "source": "Bryan Deluca",
+        "action": "can be contacted at",
+        "target": "x36161",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<2200448.1075845189660.JavaMail.evans@thyme>",
+            "exact_quote": "please feel free to contact either Bryan Deluca at x36161",
+            "timestamp": "Mon, 21 May 2001 15:24:26 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      },
+      {
+        "source": "Simone La Rose",
+        "action": "can be contacted at",
+        "target": "x31670",
+        "confidence_score": 0.9,
+        "proof": [
+          {
+            "source_id": "<2200448.1075845189660.JavaMail.evans@thyme>",
+            "exact_quote": "or Simone La Rose at x31670",
+            "timestamp": "Mon, 21 May 2001 15:24:26 -0700",
+            "context_location": "Paragraph 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "extraction_version": "v1.0",
+      "model_name": "llama-3.3-70b-versatile"
+    },
+    "entities": [
+      {
+        "name": "evans",
+        "entity_type": "PERSON"
+      },
+      {
+        "name": "JavaMail",
+        "entity_type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "evans",
+        "action": "sent",
+        "target": "JavaMail",
+        "confidence_score": 0.8,
+        "proof": [
+          {
+            "source_id": "<11938158.1075845189559.JavaMail.evans@thyme>",
+            "exact_quote": "evans@thyme",
+            "timestamp": "Mon, 21 May 2001 09:26:52 -0700",
+            "context_location": "Email header"
+          }
+        ]
+      }
+    ]
+  }
+]
