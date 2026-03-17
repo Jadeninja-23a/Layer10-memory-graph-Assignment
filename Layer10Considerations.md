@@ -1,4 +1,4 @@
-# Layer10 Considerations
+# Scalability Considerations
 
 The system I built was tested on a static dataset (Enron emails). In a real enterprise environment the system would need to support multiple sources such as email, Slack/Teams chats, documents, and structured systems like Jira or Linear. This mainly requires changes in the schema, extraction flow, memory lifecycle, and update strategy.
 
