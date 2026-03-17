@@ -1,5 +1,5 @@
 """
-server.py — Layer10 Memory Graph Explorer backend
+server.py — Memory Graph Explorer backend
 Run: python server.py
 Opens at: http://localhost:5050
 
@@ -178,7 +178,7 @@ def api_clear_blocklist():
 if __name__ == "__main__":
     os.makedirs(DATA_DIR, exist_ok=True)
     print("─" * 50)
-    print("  Layer10 Memory Graph Explorer")
+    print(" Memory Graph Explorer")
     print("  http://localhost:5050")
     print("─" * 50)
     # Use threaded=True so the status polling doesn't block the pipeline thread

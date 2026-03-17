@@ -2,7 +2,7 @@ from pydantic import BaseModel, Field, field_validator
 from typing import List
 
 # --- NEW: VERSIONING ---
-# Layer10 wants to know how we track schema drift. We add a Metadata envelope.
+# We wants to know how we track schema drift. We add a Metadata envelope.
 class ExtractionMetadata(BaseModel):
     extraction_version: str = Field(description="The version of the prompt/schema used (e.g., 'v1.0').")
     model_name: str = Field(description="The LLM used for extraction (e.g., 'llama-3.3-70b-versatile').")
